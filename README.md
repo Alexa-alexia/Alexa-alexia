@@ -4,6 +4,7 @@ I am an Android Developer, Web Designer and UI/UX Designer
 - 🌱 Learning design patterns in depth
 <br>
 ## Connect with me
+<br>
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alexia-fauzia-26b4b2172/)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/15426019/alexia-fauzia)
@@ -13,6 +14,8 @@ I am an Android Developer, Web Designer and UI/UX Designer
 <br>
 <br>
 ## Expertise
+<br> 
+
 <img align="left" alt="android" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 <img align="left" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img align="left" alt="dribble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
