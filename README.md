@@ -27,3 +27,7 @@
 
 <br>
 <br>
+
+<a href="https://app.daily.dev/Fauzia"><img src="https://api.daily.dev/devcards/8a73b08baf104999926162201fc4fa0e.png?r=ijn" width="400" alt="Alexia Fauzia's Dev Card"/></a>
+<br>
+
