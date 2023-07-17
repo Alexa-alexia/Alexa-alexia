@@ -5,13 +5,6 @@
 <br>
 *- 🌱 Learning design patterns in depth*
 <br>
-<a href="https://app.daily.dev/Fauzia" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://api.daily.dev/devcards/8a73b08baf104999926162201fc4fa0e.png?r=egj" width="400" alt="Alexia Fauzia's Dev Card"
-    />
-  </a>
 <br>
 
 ## ***Connect with me***
