@@ -1,4 +1,4 @@
-### ***Hello World*** 👋
+### ***Hello*** 👋
 *I'm Alexia and I am an Android Developer, Web and UI/UX Designer* 
 <br>
 *- 🔭 Working on multiple frontend and backend project using Kotlin-Android Studio and Nodejs*
